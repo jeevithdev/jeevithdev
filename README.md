@@ -27,21 +27,27 @@ Building scalable backend systems • Focused on DSA & System Design
 - Learning core System Design fundamentals  
 
 ---
+<h2 align="center">⚡ Tech Stack</h2>
 
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+<h3>🧠 Core Language</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" height="55"/>
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git" height="50"/>
+<h3>🌐 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
 
+<h3>🛠 Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git" />
+</p>
 ---
 
 ## 📊 GitHub Activity
