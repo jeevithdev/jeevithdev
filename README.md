@@ -1,5 +1,5 @@
 <h1 align="center">Jeevith K</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
 Building scalable backend systems • Focused on DSA & System Design
@@ -46,6 +46,11 @@ Building scalable backend systems • Focused on DSA & System Design
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&show_icons=true&hide_border=true" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jeevithdev&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jeevithdev&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
