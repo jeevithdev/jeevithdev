@@ -90,7 +90,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="28" height="28" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=ocean_dark&hide_border=true" width="48%" />
 </div>
 
