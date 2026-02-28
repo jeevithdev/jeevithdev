@@ -79,12 +79,7 @@ My goal is to build reliable backend systems that are secure, efficient, and pro
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> GitHub Stats & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=ocean_dark&no-frame=true&no-bg=true&margin-w=15" width="100%" />
-</div>
-<br/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
