@@ -1,83 +1,87 @@
-<!-- Jeevith K | Animated GitHub Profile README -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/183089818?v=4" alt="Jeevith K" width="120" style="border-radius:50%;box-shadow:0 2px 12px #0A6EFF33;"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A6EFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeevith+K;Backend+Developer;DSA+%7C+System+Design+%7C+Node.js+%7C+Java" alt="Animated Typing Intro"/>
-</h1>
+<!-- Jeevith K | Super Animated GitHub Profile README -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevith-k-14b410292" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="border-radius:6px;"/>
-  </a>
-  <a href="mailto:jeevasri970@gmail.com" title="Gmail">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" style="border-radius:6px;"/>
-  </a>
-  <a href="https://github.com/jeevithdev" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" style="border-radius:6px;"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/jeevithdev/jeevithdev/blob/main/wave.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&fontColor=ffffff" width="100%"/>
 </p>
 
 <div align="center">
-  <h2>🚀 About Me</h2>
-  <ul style="list-style:none; padding:0;">
-    <li>🧑‍💻 Backend Developer (Java, Node.js)</li>
-    <li>💡 System Design & DSA Focus</li>
-    <li>🌱 Learning Cloud & Microservices</li>
-    <li>🤝 Open Source Contributor</li>
-    <li>🏆 Competitive Programmer</li>
-  </ul>
-  <img src="https://img.shields.io/badge/Passionate-Learner-blue?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Collaboration-Welcome-orange?style=for-the-badge&logo=github"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;System+Design+%26+DSA+Enthusiast+%F0%9F%92%A1;Java+%7C+Node.js+%7C+React+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jeevasri970@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jeevithdev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-  <table>
-    <tr>
-      <td align="center"><b>Languages</b></td>
-      <td align="center"><b>Backend</b></td>
-      <td align="center"><b>Frontend</b></td>
-      <td align="center"><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28"/></td>
-    </tr>
-  </table>
-</div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About Me :
 
----
-
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="380"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jeevithdev&theme=blue_navy&hide_border=false" width="380"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithdev&theme=github_dark"/>
-</div>
-
----
-
-<div align="center">
-  <h2>📬 Contact</h2>
+<blockquote>
   <p>
-    <b>Email:</b> <a href="mailto:jeevasri970@gmail.com">jeevasri970@gmail.com</a> <br/>
-    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jeevith-k-14b410292">Jeevith K</a> <br/>
-    <b>GitHub:</b> <a href="https://github.com/jeevithdev">jeevithdev</a>
+    🔭 I’m currently working on <strong>Backend Development (Java, Node.js) & System Design</strong><br>
+    👯 I’m looking to collaborate on <strong>Open Source Projects</strong><br>
+    🤝 I’m looking for help with <strong>Cloud Architecture & Microservices</strong><br>
+    🌱 I’m currently learning <strong>Advanced System Design & Cloud Technologies</strong><br>
+    💬 Ask me about <strong>DSA, Java, JavaScript, and Backend Systems</strong><br>
+    ⚡ Fun fact: <strong>I love tackling complex algorithmic problems and Competitive Programming!</strong>
   </p>
+</blockquote>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,html,css&perline=8" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker&perline=8" />
+  </a>
+</p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</div>
+
+<br/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%"/>
+</div>
