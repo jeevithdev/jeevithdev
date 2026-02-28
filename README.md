@@ -41,7 +41,7 @@
 
 ---
 
-<h3>🙋‍♂️ About Me :</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face" width="28" height="28" /> About Me :</h3>
 <blockquote>
   <p>
     🔭 I’m currently strengthening my backend fundamentals using Java, Node.js, and Express.<br><br>
@@ -55,7 +55,7 @@
 
 ---
 
-### ⚙️ Tech & Tools I Use
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> Tech & Tools I Use
 
 <div align="center">
   <p><b>Backend & Databases</b></p>
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="28" height="28" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
