@@ -5,11 +5,18 @@
 </p>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183089818?v=4" alt="Jeevith K" width="130" style="border-radius:50%; border: 4px solid #0A6EFF; box-shadow: 0 0 20px rgba(10, 110, 255, 0.5);"/>
-  <br/>
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A6EFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB;Welcome+to+my+GitHub+Workspace!" alt="Typing SVG" />
 </div>
+
+<br/>
+<p align="center">
+  <i>I’m a backend-focused Computer Science student building strong foundations in Java and system design.<br>
+  I focus on writing clean, scalable code and understanding how applications work behind the scenes.<br>
+  I’m strengthening my skills in Data Structures, databases, and API development.<br>
+  I prefer practical problem-solving over surface-level learning.<br>
+  My goal is to build reliable backend systems that solve real-world problems efficiently.</i>
+</p>
+<br/>
 
 <p align="center">
   <a href="https://github.com/jeevithdev">
