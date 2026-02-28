@@ -1,24 +1,37 @@
 <!-- Jeevith K | Super Fresher Animated GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=150&section=header&text=Welcome%20to%20my%20Profile!%20%F0%9F%91%8B&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A6EFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://avatars.githubusercontent.com/u/183089818?v=4" alt="Jeevith K" width="130" style="border-radius:50%; border: 4px solid #0A6EFF; box-shadow: 0 0 20px rgba(10, 110, 255, 0.5);"/>
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A6EFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB;Welcome+to+my+GitHub+Workspace!" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A6EFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jeevasri970@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/jeevithdev">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=jeevithdev&label=Profile%20Views&color=0A6EFF&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
+    <img src="https://img.shields.io/badge/LinkedIn-0A6EFF?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" />
+  </a>
+  <a href="mailto:jeevasri970@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&style=flat" />
+  </a>
+  <a href="https://github.com/jeevithdev">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white&style=flat" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Developer Coding" width="400" />
+</div>
 
 ---
 
@@ -38,7 +51,7 @@
       </blockquote>
     </td>
     <td width="40%" style="border:none;" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="300" style="border-radius: 10px;"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF 2" width="300" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -72,7 +85,12 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> GitHub Stats & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=ocean_dark&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+</div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -93,6 +111,12 @@
   <a href="https://github.com/jeevithdev">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=ocean_dark&hide_border=true&area=true" width="100%" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ocean_dark" alt="Random Quote" />
 </div>
 
 <br/>
