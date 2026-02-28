@@ -28,6 +28,12 @@
 </p>
 
 <p align="center">
+  <a href="https://jeevithdev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/✨_View_My_Portfolio-0A6EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
     <img src="https://img.shields.io/badge/LinkedIn-0A6EFF?style=for-the-badge&logo=linkedin&logoColor=white&style=flat" />
   </a>
