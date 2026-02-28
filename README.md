@@ -1,53 +1,33 @@
-<!-- Jeevith K | Unique GitHub Profile README with Icon Animations -->
-<style>
-.icon-animate {
-  transition: transform 0.3s cubic-bezier(.68,-0.55,.27,1.55), box-shadow 0.3s;
-  box-shadow: 0 2px 8px #0A6EFF22;
-}
-.icon-animate:hover {
-  transform: scale(1.25) rotate(-8deg);
-  box-shadow: 0 6px 24px #0A6EFF55;
-  z-index: 2;
-}
-.tech-icon {
-  transition: transform 0.4s cubic-bezier(.68,-0.55,.27,1.55), filter 0.4s;
-  filter: grayscale(40%) brightness(0.95);
-}
-.tech-icon:hover {
-  transform: scale(1.18) rotate(8deg);
-  filter: none;
-}
-@keyframes fadeInUp {
-  0% { opacity: 0; transform: translateY(30px); }
-  100% { opacity: 1; transform: translateY(0); }
-}
-.fade-in {
-  animation: fadeInUp 0.7s ease;
-}
-</style>
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183089818?v=4" alt="Jeevith K" width="120" style="border-radius:50%;box-shadow:0 2px 12px #0A6EFF33;" class="fade-in"/>
-  <h1 style="margin-top:10px;" class="fade-in">Jeevith K</h1>
-  <h3 style="color:#0A6EFF;" class="fade-in">Backend Developer | DSA Enthusiast</h3>
-  <p style="max-width:500px; margin:10px auto; font-size:1.1em; color:#444;" class="fade-in">Building scalable backend systems, mastering algorithms, and designing robust architectures. Passionate about clean code, open source, and lifelong learning.</p>
-  <div style="margin:18px 0;">
-    <a href="https://www.linkedin.com/in/jeevith-k-14b410292" title="LinkedIn" style="margin:0 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="border-radius:6px;" class="icon-animate fade-in"/>
-    </a>
-    <a href="mailto:jeevasri970@gmail.com" title="Gmail" style="margin:0 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" style="border-radius:6px;" class="icon-animate fade-in"/>
-    </a>
-    <a href="https://github.com/jeevithdev" title="GitHub" style="margin:0 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" style="border-radius:6px;" class="icon-animate fade-in"/>
-    </a>
-  </div>
-</div>
+<!-- Jeevith K | Animated GitHub Profile README -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/183089818?v=4" alt="Jeevith K" width="120" style="border-radius:50%;box-shadow:0 2px 12px #0A6EFF33;"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0A6EFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeevith+K;Backend+Developer;DSA+%7C+System+Design+%7C+Node.js+%7C+Java" alt="Animated Typing Intro"/>
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeevith-k-14b410292" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" style="border-radius:6px;"/>
+  </a>
+  <a href="mailto:jeevasri970@gmail.com" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" style="border-radius:6px;"/>
+  </a>
+  <a href="https://github.com/jeevithdev" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" style="border-radius:6px;"/>
+  </a>
+</p>
 
 ---
 
+<p align="center">
+  <img src="https://github.com/jeevithdev/jeevithdev/blob/main/wave.svg" width="100%"/>
+</p>
+
 <div align="center">
-  <h2 class="fade-in">🚀 About Me</h2>
-  <ul style="list-style:none; padding:0;" class="fade-in">
+  <h2>🚀 About Me</h2>
+  <ul style="list-style:none; padding:0;">
     <li>🧑‍💻 Backend Developer (Java, Node.js)</li>
     <li>💡 System Design & DSA Focus</li>
     <li>🌱 Learning Cloud & Microservices</li>
@@ -59,7 +39,7 @@
 ---
 
 <div align="center">
-  <h2 class="fade-in">🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack</h2>
   <table>
     <tr>
       <td align="center"><b>Languages</b></td>
@@ -68,10 +48,10 @@
       <td align="center"><b>Tools</b></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" class="tech-icon fade-in"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" class="tech-icon fade-in"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" class="tech-icon fade-in"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" class="tech-icon fade-in"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28" class="tech-icon fade-in"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28"/></td>
     </tr>
   </table>
 </div>
@@ -79,40 +59,20 @@
 ---
 
 <div align="center">
-  <h2 class="fade-in">📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="380" class="fade-in"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jeevithdev&theme=blue_navy&hide_border=false" width="380" class="fade-in"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380" class="fade-in"/>
+  <h2>📈 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="380"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jeevithdev&theme=blue_navy&hide_border=false" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2 class="fade-in">🏆 Featured Projects</h2>
-  <ul style="list-style:none; padding:0;" class="fade-in">
-    <li><a href="https://github.com/jeevithdev/Valrix-Backend"><b>Valrix-Backend</b></a>: JavaScript backend for scalable apps</li>
-    <li><a href="https://github.com/jeevithdev/SPOT-Q"><b>SPOT-Q</b></a>: Forked scraper project for queue management</li>
-    <li><a href="https://github.com/jeevithdev/SakthiAuto-Backend"><b>SakthiAuto-Backend</b></a>: Forked backend for auto services</li>
-    <li><a href="https://github.com/jeevithdev/Ai-Book-Cover-Generator"><b>Ai-Book-Cover-Generator</b></a>: AI-powered book cover generator (CSS)</li>
-    <li><a href="https://github.com/jeevithdev/Portfolio"><b>Portfolio</b></a>: Personal portfolio site</li>
-    <li><a href="https://github.com/jeevithdev/Todo-App"><b>Todo-App</b></a>: Minimal ToDo List app</li>
-  </ul>
-  <p class="fade-in"><a href="https://github.com/jeevithdev?tab=repositories">See all repositories &rarr;</a></p>
-</div>
-
----
-
-<div align="center">
-  <h2 class="fade-in">📬 Contact</h2>
-  <p class="fade-in">
+  <h2>📬 Contact</h2>
+  <p>
     <b>Email:</b> <a href="mailto:jeevasri970@gmail.com">jeevasri970@gmail.com</a> <br/>
     <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jeevith-k-14b410292">Jeevith K</a> <br/>
     <b>GitHub:</b> <a href="https://github.com/jeevithdev">jeevithdev</a>
   </p>
 </div>
 
----
-
-<div align="center">
-  <sub class="fade-in"><em>Designed for GitHub profile ✨ | Inspired by GPRM</em></sub>
-</div>
