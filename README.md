@@ -34,6 +34,9 @@
     <li>🤝 Open Source Contributor</li>
     <li>🏆 Competitive Programmer</li>
   </ul>
+  <img src="https://img.shields.io/badge/Passionate-Learner-blue?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Collaboration-Welcome-orange?style=for-the-badge&logo=github"/>
 </div>
 
 ---
@@ -63,6 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="380"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=jeevithdev&theme=blue_navy&hide_border=false" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevithdev&theme=github_dark"/>
 </div>
 
 ---
@@ -75,4 +79,5 @@
     <b>GitHub:</b> <a href="https://github.com/jeevithdev">jeevithdev</a>
   </p>
 </div>
+
 
