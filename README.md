@@ -10,11 +10,11 @@
 
 <br/>
 <p align="center">
-  <i>I’m a backend-focused Computer Science student building strong foundations in Java and system design.<br>
-  I focus on writing clean, scalable code and understanding how applications work behind the scenes.<br>
-  I’m strengthening my skills in Data Structures, databases, and API development.<br>
-  I prefer practical problem-solving over surface-level learning.<br>
-  My goal is to build reliable backend systems that solve real-world problems efficiently.</i>
+  <i>I’m a backend-focused developer working primarily with Node.js and Express to build scalable server-side applications.
+I focus on designing clean APIs, structuring databases efficiently, and writing maintainable code.
+I enjoy understanding how systems work behind the scenes and optimizing performance.
+I prefer practical, real-world problem solving over surface-level implementation.
+My goal is to build reliable backend systems that are secure, efficient, and production-ready.</i>
 </p>
 <br/>
 
@@ -36,32 +36,19 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Developer Coding" width="400" />
-</div>
-
 ---
 
-<table align="center" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td width="60%" style="border:none;" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="28" height="28" /> About Me :</h3>
-      <blockquote>
-        <p>
-          🔭 I’m currently working on <strong>strengthening my backend fundamentals using Java and Node.js.</strong><br><br>
-          🌱 I’m currently learning <strong>Database Optimizations, RESTful APIs, and basic System Design.</strong><br><br>
-          👯 I’m looking to collaborate on <strong>beginner-friendly Open Source projects & tech communities.</strong><br><br>
-          🤝 I’m looking for help with <strong>advancing in Data Structures and Algorithms (DSA) and CP.</strong><br><br>
-          💬 Ask me about <strong>Java, JavaScript, Express, and my latest learning adventures!</strong><br><br>
-          ⚡ Fun fact: <strong>I love turning coffee into functional code & hunting down elusive bugs!</strong>
-        </p>
-      </blockquote>
-    </td>
-    <td width="40%" style="border:none;" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF 2" width="300" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="28" height="28" /> About Me :</h3>
+<blockquote>
+  <p>
+    🔭 I’m currently working on <strong>strengthening my backend fundamentals using Java and Node.js.</strong><br><br>
+    🌱 I’m currently learning <strong>Database Optimizations, RESTful APIs, and basic System Design.</strong><br><br>
+    👯 I’m looking to collaborate on <strong>beginner-friendly Open Source projects & tech communities.</strong><br><br>
+    🤝 I’m looking for help with <strong>advancing in Data Structures and Algorithms (DSA) and CP.</strong><br><br>
+    💬 Ask me about <strong>Java, JavaScript, Express, and my latest learning adventures!</strong><br><br>
+    ⚡ Fun fact: <strong>I love turning coffee into functional code & hunting down elusive bugs!</strong>
+  </p>
+</blockquote>
 
 ---
 
