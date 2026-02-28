@@ -1,87 +1,102 @@
-<!-- Jeevith K | Super Animated GitHub Profile README -->
+<!-- Jeevith K | Super Fresher Animated GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=150&section=header&text=Welcome%20to%20my%20Profile!%20%F0%9F%91%8B&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=twinkling" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Backend+Developer+%E2%9A%99%EF%B8%8F;System+Design+%26+DSA+Enthusiast+%F0%9F%92%A1;Java+%7C+Node.js+%7C+React+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A6EFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A6EFF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jeevasri970@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jeevithdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About Me :
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td width="60%" style="border:none;" valign="top">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="28" height="28" /> About Me :</h3>
+      <blockquote>
+        <p>
+          🔭 I’m currently working on <strong>strengthening my backend fundamentals using Java and Node.js.</strong><br><br>
+          🌱 I’m currently learning <strong>Database Optimizations, RESTful APIs, and basic System Design.</strong><br><br>
+          👯 I’m looking to collaborate on <strong>beginner-friendly Open Source projects & tech communities.</strong><br><br>
+          🤝 I’m looking for help with <strong>advancing in Data Structures and Algorithms (DSA) and CP.</strong><br><br>
+          💬 Ask me about <strong>Java, JavaScript, Express, and my latest learning adventures!</strong><br><br>
+          ⚡ Fun fact: <strong>I love turning coffee into functional code & hunting down elusive bugs!</strong>
+        </p>
+      </blockquote>
+    </td>
+    <td width="40%" style="border:none;" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="300" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
-<blockquote>
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> Tech & Tools I Use
+
+<div align="center">
+  <p><b>Backend & Databases</b></p>
   <p>
-    🔭 I’m currently working on <strong>Backend Development (Java, Node.js) & System Design</strong><br>
-    👯 I’m looking to collaborate on <strong>Open Source Projects</strong><br>
-    🤝 I’m looking for help with <strong>Cloud Architecture & Microservices</strong><br>
-    🌱 I’m currently learning <strong>Advanced System Design & Cloud Technologies</strong><br>
-    💬 Ask me about <strong>DSA, Java, JavaScript, and Backend Systems</strong><br>
-    ⚡ Fun fact: <strong>I love tackling complex algorithmic problems and Competitive Programming!</strong>
+    <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?i=java,nodejs,express,mongodb,mysql&perline=10" />
+    </a>
   </p>
-</blockquote>
+  
+  <p><b>Frontend</b></p>
+  <p>
+    <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?i=js,html,css,react&perline=10" />
+    </a>
+  </p>
+  
+  <p><b>Tools & Infrastructure</b></p>
+  <p>
+    <a href="https://skillicons.dev" align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=10" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" height="28" /> GitHub Stats
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,html,css&perline=8" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=ocean_dark&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</div>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Deep Dive Activity
+
+<div align="center">
+  <a href="https://github.com/jeevithdev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=ocean_dark&hide_border=true&area=true" width="100%" />
   </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker&perline=8" />
-  </a>
-</p>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-
-<br/>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=100&section=footer" width="100%"/>
 </div>
