@@ -41,12 +41,12 @@ My goal is to build reliable backend systems that are secure, efficient, and pro
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="28" height="28" /> About Me :</h3>
 <blockquote>
   <p>
-    🔭 I’m currently working on <strong>strengthening my backend fundamentals using Java and Node.js.</strong><br><br>
-    🌱 I’m currently learning <strong>Database Optimizations, RESTful APIs, and basic System Design.</strong><br><br>
-    👯 I’m looking to collaborate on <strong>beginner-friendly Open Source projects & tech communities.</strong><br><br>
-    🤝 I’m looking for help with <strong>advancing in Data Structures and Algorithms (DSA) and CP.</strong><br><br>
-    💬 Ask me about <strong>Java, JavaScript, Express, and my latest learning adventures!</strong><br><br>
-    ⚡ Fun fact: <strong>I love turning coffee into functional code & hunting down elusive bugs!</strong>
+    🔭 I’m currently strengthening my backend fundamentals using Java, Node.js, and Express.<br><br>
+    🌱 I’m learning Database Optimization, RESTful API design, and basic System Design principles.<br><br>
+    👯 I’m open to collaborating on beginner-friendly Open Source projects and tech communities.<br><br>
+    🤝 I’m working on advancing my skills in Data Structures & Algorithms (DSA) and Competitive Programming.<br><br>
+    💬 Ask me about Java, JavaScript, Express, backend concepts, and my latest learning experiments.<br><br>
+    ⚡ Fun fact: I enjoy manually testing applications, finding edge cases, and exploring how systems can break — then thinking about how to make them stronger.
   </p>
 </blockquote>
 
@@ -86,29 +86,7 @@ My goal is to build reliable backend systems that are secure, efficient, and pro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=ocean_dark&hide_border=true" width="48%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Deep Dive Activity
-
-<div align="center">
-  <a href="https://github.com/jeevithdev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=ocean_dark&hide_border=true&area=true" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ocean_dark" alt="Random Quote" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=100&section=footer" width="100%"/>
