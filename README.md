@@ -1,7 +1,7 @@
 ﻿<!-- Jeevith K | GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6EFF,100:00D4FF&height=180&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=42&fontAlignY=30&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%7C%20Fresher%20%7C%20Code%20Enthusiast&descAlignY=50&descSize=16&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0A6EFF,100:00D4FF&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=40&fontAlignY=45&fontColor=ffffff&animation=scaleIn&desc=Backend%20Developer%20%7C%20Fresher%20%7C%20Code%20Enthusiast&descAlignY=70&descSize=14&descColor=ffffff" width="100%"/>
 </p>
 
 <div align="center">
@@ -50,7 +50,7 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" /> About Me</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Coding" width="280" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f90.gif" alt="Coding" width="280" />
 
 > 🔭 I'm currently strengthening my backend fundamentals using Java, Node.js, and Express.
 >
@@ -184,5 +184,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6EFF,100:00D4FF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0A6EFF,100:00D4FF&height=80&section=footer" width="100%"/>
 </p>
