@@ -82,10 +82,9 @@
 | :--- | :--- |
 | **System Design** | Load Balancers, Caching, Database Sharding |
 | **REST API Design** | Authentication, Rate Limiting, Versioning |
-| **DSA & Problem Solving** | Arrays, Trees, Graphs, Dynamic Programming |
-| **TypeScript** | Type Safety, Interfaces, Generics |
-| **Redis** | Caching Strategies, Pub/Sub, Session Management |
-| **Testing** | Unit Testing, Integration Testing, Jest |
+| **DSA** | Arrays, Trees, Graphs, Dynamic Programming |
+| **Supabase** | Auth, Realtime DB, Edge Functions |
+| **Testing** | Unit Testing, Integration Testing |
 
 </div>
 
