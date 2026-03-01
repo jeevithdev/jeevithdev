@@ -1,11 +1,11 @@
 ﻿<!-- Jeevith K | GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:4A00E0&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=40&fontAlignY=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6C5CE7&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=40&fontAlignY=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A6EFF&center=true&vCenter=true&repeat=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&repeat=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,19 +22,19 @@
 
 <p align="center">
   <a href="https://github.com/jeevithdev">
-    <img src="https://komarev.com/ghpvc/?username=jeevithdev&label=Profile%20Views&color=0A6EFF&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://komarev.com/ghpvc/?username=jeevithdev&label=Profile%20Views&color=6C5CE7&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://jeevithkdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/%E2%9C%A8_View_My_Portfolio-0A6EFF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+    <img src="https://img.shields.io/badge/%E2%9C%A8_View_My_Portfolio-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeevith-k-14b410292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A6EFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:jeevasri970@gmail.com">
@@ -184,5 +184,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00CEC9&height=3&section=footer" width="100%"/>
 </p>
