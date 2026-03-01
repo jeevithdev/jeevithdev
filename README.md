@@ -74,13 +74,22 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" /> Currently Exploring
 
+<br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/System%20Design-0A6EFF?style=flat-square&logo=buffer&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-00C853?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" /> Area | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18" /> Topics |
+| :--- | :--- |
+| **System Design** | Load Balancers, Caching, Database Sharding |
+| **REST API Design** | Authentication, Rate Limiting, Versioning |
+| **DSA & Problem Solving** | Arrays, Trees, Graphs, Dynamic Programming |
+| **TypeScript** | Type Safety, Interfaces, Generics |
+| **Redis** | Caching Strategies, Pub/Sub, Session Management |
+| **Testing** | Unit Testing, Integration Testing, Jest |
+
 </div>
+
+<br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
@@ -151,20 +160,8 @@
       <br><b>VS Code</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
       <br><b>REST API</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48" />
-      <br><b>npm</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
-      <br><b>Bash</b>
     </td>
   </tr>
 </table>
@@ -173,25 +170,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true&background=00000000" width="48%" alt="Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithdev&theme=tokyonight&hide_border=true&bg_color=00000000&layout=compact&langs_count=6" width="38%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true&background=00000000" width="55%" alt="Streak"/>
 </div>
 
 <br/>
