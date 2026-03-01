@@ -1,23 +1,17 @@
 ﻿<!-- Jeevith K | GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=150&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6EFF,100:00D4FF&height=180&section=header&text=Hi%20There,%20I'm%20Jeevith%20K!%20%F0%9F%91%8B&fontSize=42&fontAlignY=30&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer%20%7C%20Fresher%20%7C%20Code%20Enthusiast&descAlignY=50&descSize=16&descColor=ffffff" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A6EFF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A6EFF&center=true&vCenter=true&repeat=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f638df.gif" alt="Backend Server Animation" width="100" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" />
 </p>
 
 <p align="center">
@@ -60,7 +54,7 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" /> About Me</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="250" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="280" />
 
 > 🔭 I'm currently strengthening my backend fundamentals using Java, Node.js, and Express.
 >
@@ -75,6 +69,18 @@
 > ⚡ Fun fact: I enjoy manually testing applications, finding edge cases, and exploring how systems can break — then thinking about how to make them stronger.
 
 <br clear="both"/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" /> Currently Exploring
+
+<div align="center">
+  <img src="https://img.shields.io/badge/System%20Design-0A6EFF?style=flat-square&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-00C853?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
@@ -145,12 +151,20 @@
       <br><b>VS Code</b>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+      <br><b>Linux</b>
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+      <br><b>REST API</b>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48" />
+      <br><b>npm</b>
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="48" height="48" />
+      <br><b>Bash</b>
     </td>
   </tr>
 </table>
@@ -159,13 +173,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jeevithdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeevithdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="Stats"/>
@@ -186,6 +202,22 @@
 
 <br/>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="25" /> Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%" />
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A6EFF&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="22" />
+  <b>Thanks for visiting! Let's connect and build something great together.</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="22" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6EFF,100:00D4FF&height=100&section=footer" width="100%"/>
 </p>
