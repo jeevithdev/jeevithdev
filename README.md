@@ -50,7 +50,7 @@
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" /> About Me</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="280" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Coding" width="280" />
 
 > 🔭 I'm currently strengthening my backend fundamentals using Java, Node.js, and Express.
 >
