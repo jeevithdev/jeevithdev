@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A6EFF&center=true&vCenter=true&repeat=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Passionate+about+Java+%26+Node.js+%E2%98%95;Fresher+Eager+to+Learn+%F0%9F%8C%B1;Turning+Coffee+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-<br/>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f638df.gif" alt="Backend Server Animation" width="100" />
 </p>
@@ -21,8 +19,6 @@
   I prefer practical, real-world problem solving over surface-level implementation.<br>
   My goal is to build reliable backend systems that are secure, efficient, and production-ready.</i>
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/jeevithdev">
@@ -50,6 +46,8 @@
   </a>
 </p>
 
+<br/>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" /> About Me</h3>
@@ -70,11 +68,11 @@
 
 <br clear="both"/>
 
+<br/>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" /> Currently Exploring
-
-<br/>
 
 <div align="center">
 
@@ -93,8 +91,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Tech & Tools I Use
-
-<br/>
 
 <table align="center">
   <tr>
@@ -171,11 +167,11 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true&background=00000000" width="55%" alt="Streak"/>
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
@@ -187,9 +183,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="25" /> Random Dev Quote
 
+<br/>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%" />
 </div>
+
+<br/>
 
 <br/>
 
