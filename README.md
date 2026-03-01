@@ -46,8 +46,6 @@
   </a>
 </p>
 
-<br/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Cool" width="25" /> About Me</h3>
@@ -68,8 +66,6 @@
 
 <br clear="both"/>
 
-<br/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" /> Currently Exploring
@@ -85,8 +81,6 @@
 | **Testing** | Unit Testing, Integration Testing |
 
 </div>
-
-<br/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
@@ -161,13 +155,9 @@
   </tr>
 </table>
 
-<br/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> GitHub Stats
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithdev&theme=tokyonight&hide_border=true&background=00000000" width="55%" alt="Streak"/>
@@ -177,19 +167,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithdev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
-<br/>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="25" /> Random Dev Quote
 
-<br/>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%" />
 </div>
-
-<br/>
 
 <br/>
 
